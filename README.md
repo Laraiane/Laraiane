@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=12C6CA&width=435&lines=Ol%C3%A1%2C+seja+bem-vindo.;Meu+nome+%C3%A9+Laraiane+Luzzoli.;Sou+brasileira+e+tenho+29+anos.;Sphinx+of+black+quartz%2C+judge+my+vow)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=12C6CA&center=true&width=435&lines=Welcome!+My+name+is+Laraiane+Luzzoli.;I'm+Brazilian+and+I'm+29+years.;I+study+Data+Science+at+EBAC.)](https://git.io/typing-svg)
 
  ### Main skills: 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
