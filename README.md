@@ -1,6 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1%2C+seja+bem-vindo.;Meu+nome+%C3%A9+Laraiane+Luzzoli.;Sou+brasileira+e+tenho+29+anos.;Sphinx+of+black+quartz%2C+judge+my+vow)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=12C6CA&width=435&lines=Ol%C3%A1%2C+seja+bem-vindo.;Meu+nome+%C3%A9+Laraiane+Luzzoli.;Sou+brasileira+e+tenho+29+anos.;Sphinx+of+black+quartz%2C+judge+my+vow)](https://git.io/typing-svg)
+
 
  ### Main skills: 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
